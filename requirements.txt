@@ -1,0 +1,14 @@
+instaloader
+subprocess
+telnetlib
+datetime
+requests
+win32gui
+pyautogui
+pyaudio
+android
+twilio
+wave
+json
+time
+sys

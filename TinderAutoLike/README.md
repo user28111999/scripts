@@ -1,0 +1,3 @@
+# TinderAutoLike (v1.0.0)
+
+No longer using Tinder since 2019! It might not work anymore...
