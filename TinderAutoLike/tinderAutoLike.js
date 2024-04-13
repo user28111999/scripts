@@ -1,1 +1,0 @@
-var TinderAutoLike=function(){var t,e,n,a=5e3,r=!1;function c(t){r=t}function i(){t=document.getElementsByClassName("recsGamepad")[0],e=t.getElementsByTagName("button")[3],r||(c(!0),n=setInterval(function(){e.click()},a))}function o(){r&&(c(!1),clearInterval(n))}return{setIntervalBetweenClicks:function(t){a=t,r&&(o(),i())},start:i,stop:o}}();TinderAutoLike.start();

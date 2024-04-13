@@ -1,3 +1,5 @@
+# Refreshes a log file in real time
+
 import time
 import sys
 
